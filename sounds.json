@@ -1,0 +1,67 @@
+{
+    "entity.centaur.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.centaur.ambient",
+        "sounds": 
+        [
+            {"name": "pm:entity/centaur/ambient"} 
+        ]
+    },
+    "entity.centaur.hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.centaur.hurt",
+        "sounds": 
+        [
+            {"name": "pm:entity/centaur/hurt"} 
+        ]
+    },
+    "entity.centaur.death":
+    {
+        "category": "entity",
+        "subtitle": "entity.centaur.death",
+        "sounds": 
+        [
+           {"name": "pm:entity/centaur/death"} 
+        ]
+    },
+    "entity.bird.ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.bird.ambient",
+        "sounds": 
+        [
+                "pm:entity/bird/cry0",
+                "pm:entity/bird/cry1",
+                "pm:entity/bird/cry2"
+        ]
+    },
+    "entity.bird.hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.bird.hurt",
+        "sounds": 
+        [
+           {"name": "pm:entity/bird/cry3"} 
+        ]
+    },
+    "entity.bird.death":
+    {
+        "category": "entity",
+        "subtitle": "entity.bird.death",
+        "sounds": 
+        [
+           {"name": "pm:entity/bird/death"} 
+        ]
+    },
+    "entity.bird.flapping":
+    {
+        "category": "entity",
+        "subtitle": "entity.bird.flapping",
+        "sounds": 
+        [
+           {"name": "pm:entity/bird/flapping"} 
+        ]
+    }
+}
