@@ -1,0 +1,72 @@
+item.pm.ruby.name=Ruby
+item.pm.ingot_titanium.name=Titanium Ingot
+
+container.blast_furnace=Blast Furnace
+
+//tools
+item.pm.axe_ruby.name=Ruby Axe
+item.pm.sword_ruby.name=Ruby Sword
+item.pm.shovel_ruby.name=Ruby Shovel
+item.pm.hoe_ruby.name=Ruby Hoe
+item.pm.pickaxe_ruby.name=Ruby Pickaxe
+
+item.pm.axe_titanium.name=Titanium Axe
+item.pm.sword_titanium.name=Titanium Sword
+item.pm.shovel_titanium.name=Titanium Shovel
+item.pm.hoe_titanium.name=Titanium Hoe
+item.pm.pickaxe_titanium.name=Titanium Pickaxe
+
+item.pm.fire_staff.name=Fire Staff
+
+//armour
+item.pm.helmet_ruby.name=Ruby Helmet
+item.pm.chestplate_ruby.name=Ruby Chestplate
+item.pm.leggings_ruby.name=Ruby Leggings
+item.pm.boots_ruby.name=Ruby Boots
+
+//food
+item.mushy_peas.name=Mushy Peas
+item.peas.name=Peas
+tile.pea_plant.name=Pea Plant
+
+tile.block_ruby.name=Ruby Block
+tile.ore_overworld_ruby.name=Ruby Ore
+tile.ore_overworld_titanium.name=Titanium Ore
+tile.ore_end_ruby.name=Ruby End Ore
+tile.ore_end_titanium.name=Titanium End Ore
+tile.ore_nether_ruby.name=Ruby Fiery Ore
+tile.ore_nether_titanium.name=Titanium Fiery Ore
+tile.leaves_ruby.name=Ruby Leaves
+tile.log_ruby.name=Ruby Log
+tile.planks_ruby.name=Ruby Planks
+tile.sapling_ruby.name=Ruby Sapling
+tile.sapling_titanium.name=Titanium Sapling
+
+tile.leaves_titanium.name=Titanium Leaves
+tile.log_titanium.name=Titanium Log
+tile.planks_titanium.name=Titanium Planks
+tile.dirt_ruby.name=Ruby Soil
+tile.dirt_titanium.name=Titanium Soil
+tile.door_ruby.name=Ruby Door
+
+tile.teleporter.name=Teleporter
+
+tile.blue_box.name=Blue Box
+
+tile.blast_furnace.name=Blast Furnace
+
+generator.ruby=Ruby World
+generator.ruby.info=A very red world
+generator.custom=Custom World
+generator.custom.info=A mixed up world
+
+itemGroup.perks_tab=Tom Tab
+
+//Entities
+entity.centaur.name=Centaur
+entity.centaur.ambient=Centaur Ambient
+entity.centaur.hurt=Centaur Hurt
+entity.centaur.death=Centaur Death
+
+entity.hawk.name=Hawk
+entity.centaur.death=Death of Centaur

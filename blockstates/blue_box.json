@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "normal":
+    {
+        "model": "pm:blue_box"
+    }
+  }
+}

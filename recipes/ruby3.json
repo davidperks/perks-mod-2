@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+            "DDD",
+            "   ",
+            "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "minecraft:apple"   
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:block_ruby",
+        "count": 2
+    }
+}

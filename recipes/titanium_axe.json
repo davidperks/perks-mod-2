@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+            "RR ",
+            "RS ",
+            " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "pm:ingot_titanium"   
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:axe_titanium"
+    }
+}

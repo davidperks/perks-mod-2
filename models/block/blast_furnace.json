@@ -1,0 +1,23 @@
+{
+
+    "parent": "block/orientable",
+
+    "textures": {
+
+        "particle": "pm:blocks/blast_furnace_side",
+
+        "up": "pm:blocks/blast_furnace_side",
+
+        "down": "pm:blocks/blast_furnace_side",
+
+        "north": "pm:blocks/blast_furnace_front_off",
+
+        "east": "pm:blocks/blast_furnace_side",
+
+        "south": "pm:blocks/blast_furnace_side",
+
+        "west": "pm:blocks/blast_furnace_side"
+
+    }
+
+}

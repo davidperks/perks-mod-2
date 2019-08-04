@@ -1,0 +1,7 @@
+{
+    "parent": "block/crop",
+    "textures":
+    {
+        "crop": "pm:blocks/pea_plant0"
+    }
+}

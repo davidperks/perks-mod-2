@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+        "name": "CentaurMain",
+      "rolls": {
+        "min": 1,
+        "max": 4
+      },
+      "name": "CentaurBonus",
+      "bonus_rolls": {
+        "min": 0,
+        "max": 3.1
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:gold_block",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stick",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

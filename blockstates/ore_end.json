@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=ruby": { "model": "pm:ore_end_ruby"},
+        "variant=titanium": { "model": "pm:ore_end_titanium"}
+    }
+}

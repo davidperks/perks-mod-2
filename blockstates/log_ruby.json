@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "axis=y":  { "model": "pm:log_ruby" },
+        "axis=z":   { "model": "pm:log_ruby", "x": 90 },
+        "axis=x":   { "model": "pm:log_ruby", "x": 90, "y": 90 },
+        "axis=none": { "model": "pm:bark_ruby" }
+    }
+}

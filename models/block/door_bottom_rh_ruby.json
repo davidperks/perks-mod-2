@@ -1,0 +1,8 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures":
+    {
+        "bottom": "pm:blocks/door_bottom_ruby",
+        "top": "pm:blocks/door_top_ruby"
+    }
+}

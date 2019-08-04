@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "pm:log_titanium"
+        }
+    ],
+    "result":
+    {
+        "item": "pm:planks_titanium",
+        "count": 4
+    }
+}

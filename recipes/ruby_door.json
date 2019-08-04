@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+            "RR",
+            "RR",
+            "RR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "pm:planks_ruby"   
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:door_ruby",
+        "count": 3
+    }
+}

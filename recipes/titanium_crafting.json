@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+            "RR",
+            "RR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "pm:log_titanium"   
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:crafting_table"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+            "R",
+            "R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "pm:planks_ruby"   
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:stick",
+        "count": 4
+    }
+}
